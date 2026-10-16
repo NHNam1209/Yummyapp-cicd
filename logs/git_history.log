@@ -1,6 +1,6 @@
-* 9d0fd8f - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:40:44 2026 +0700) : docs: Hoan thien bao cao ket qua, minh chung viet tay va trinh xuat day du logs
-* 26b79bf - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:35:46 2026 +0700) : ci: Bo sung buoc upload artifact bao cao do bao phu HTML (Tiet 4)
-* 742a28b - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:35:46 2026 +0700) : test: Thu nghiem Break the Build phat hien loi qua flake8 (Tiet 4)
-* 1068862 - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:35:46 2026 +0700) : test: Bo sung TestMediumLevel va TestHardLevel voi GPS Mocking dat do bao phu > 85% (Tiet 3)
-* c3cbb1e - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:35:45 2026 +0700) : ci: Thiet lap duong ong CI co ban voi GitHub Actions (Tiet 2)
-* 83f91f2 - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:35:45 2026 +0700) : feat: Khoi tao du an YummyApp Backend va bo test co ban (Tiet 1)
+* 7b3adfb - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:47:31 2026 +0700) : docs(readme): add project documentation, architecture diagram, and CI badges
+* 299b9d6 - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:47:31 2026 +0700) : docs(report): add final laboratory report and handwritten verification evidence
+* 8fef18e - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:47:31 2026 +0700) : docs(logs): attach raw execution logs for local tests, git history, and CI
+* aee305a - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:47:31 2026 +0700) : test(mock): implement complete test suite with GPS hardware and network mocking
+* f3fa147 - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:47:31 2026 +0700) : ci(pipeline): setup GitHub Actions automated workflow on Ubuntu runner
+* 5592f3d - 2312694 - Nguyen Hoai Nam (Fri Oct 16 15:47:30 2026 +0700) : feat(core): implement YummyApp backend business logic and dependencies
